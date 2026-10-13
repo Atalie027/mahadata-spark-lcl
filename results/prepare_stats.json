@@ -1,0 +1,9 @@
+{
+  "raw_rows": 1000000,
+  "clean_rows": 954433,
+  "agg_rows": 39095,
+  "removed_pct": 4.557,
+  "files": [
+    "data/raw/halfhourly/LCL-June2015v2_0.csv"
+  ]
+}
