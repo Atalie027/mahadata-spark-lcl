@@ -50,6 +50,5 @@ Rincian ada di data/raw/README_data.md.
 Angka hasil dapat sedikit berbeda antar mesin karena pembagian data acak bergantung pada partisi;
 waktu eksekusi bergantung pada mesin.
 
-## Penggunaan generative AI
-[Isi sesuai izin dosen: bagian kode dan laporan yang dibantu AI, dan pernyataan bahwa penulis telah
-memeriksa dan memahami isinya.]
+
+
