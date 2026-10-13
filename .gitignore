@@ -1,0 +1,5 @@
+   .venv/
+   data/raw/halfhourly/
+   data/processed/
+   __pycache__/
+   *.parquet
